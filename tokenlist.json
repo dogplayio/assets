@@ -1,0 +1,15 @@
+{
+  "name": "Dogplay Token List",
+  "logoURI": "https://raw.githubusercontent.com/dogplayio/assets/40c4b8f1e3105ee1e282adeb4f8350801aa98c1c/blockchains/ethereum/assets/0xcB523F18E2E0F4BCeF0F0bb2f9472C6C7807Ae4B/logo.png",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xcB523F18E2E0F4BCeF0F0bb2f9472C6C7807Ae4B",
+      "name": "DogplayCoin",
+      "symbol": "DGC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dogplayio/assets/40c4b8f1e3105ee1e282adeb4f8350801aa98c1c/blockchains/ethereum/assets/0xcB523F18E2E0F4BCeF0F0bb2f9472C6C7807Ae4B/logo.png"
+    }
+  ]
+}
